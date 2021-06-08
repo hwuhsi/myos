@@ -1,0 +1,4 @@
+{
+    "rust-analyzer.cargo.target": "./x86_64-myos.json",
+    "rust-analyzer.checkOnSave.allTargets": false
+}
